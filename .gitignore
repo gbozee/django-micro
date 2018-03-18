@@ -1,0 +1,14 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+venv/
+.idea/
+*.pyc
+.DS_Store
+app/.DS_Store
+venv*
+.bin
+.vscode
+*.xlsx
+startup.sh
+*client_secret.json
+*.sqlite*
+microsetup

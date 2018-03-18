@@ -1,0 +1,5 @@
+django
+django-environ
+psycopg2-binary
+django-cors-headers
+requests==2.18.4
