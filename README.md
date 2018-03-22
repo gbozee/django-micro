@@ -1,4 +1,4 @@
-# Django mico setup #
+# Django micro setup #
 
 
 ### What is this repository for? ###
@@ -30,7 +30,7 @@ The following are the variable supported
 **DJANGO_SETTINGS_MODULE**: settings module to load the django app in *default is <project_name>.settings.local*
 
 ### Running Tests
-To run tests, `python mange.py test <project_name>`
+To run tests, `python manage.py test <project_name>`
 
 ### Preparing for deployments
 There is a dockerfile created by default to help deploy the app as a docker-container. 
