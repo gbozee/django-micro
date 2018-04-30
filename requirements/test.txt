@@ -1,0 +1,3 @@
+-r local.txt
+
+pytest-django==3.2.1
